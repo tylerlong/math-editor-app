@@ -1,2 +1,3 @@
-# math-editor-app
+# Math Editor
+
 Math Editor, edit math expressions easily.
